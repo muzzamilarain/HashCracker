@@ -13,6 +13,8 @@ Hash Cracker is a Python-based tool that cracks cryptographic hash values using 
 -  Hacker aesthetics (fake suspense included!)
 -  Beginner-friendly and fully open-source
 
+![Screenshot] ![Image](https://github.com/user-attachments/assets/6a4c8f5e-8612-446f-8a0f-e9c52c974550)
+
 - Python 3.x
 - `pyfiglet` and `termcolor`
 
