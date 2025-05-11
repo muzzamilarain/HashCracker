@@ -19,6 +19,13 @@ Hash Cracker is a Python-based tool that cracks cryptographic hash values using 
 
 
 Installation
+
 git clone https://github.com/muzzamilarain/HashCracker/
+
 cd HashCracker
-python3 hashcracker.py
+
+python3 hash.py
+
+
+⚠️ Disclaimer
+This tool is for educational and ethical hacking purposes only. Do NOT use it on any system or hash you do not have permission to test.
