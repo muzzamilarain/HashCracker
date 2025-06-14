@@ -6,7 +6,8 @@ from termcolor import colored
 print(colored(figlet_format("HASH CRACKER", font="slant"), "red"))
 print(colored("Crack the Hash You want to Crack... ... ...", "yellow"))
 print(colored(figlet_format("By Muzzamil Arain", font="digital"),"red"))
-print(colored("LinkedIn: muzzamil-sadiq-7195b2258","yellow"))
+print(colored("LinkedIn: muzzamil-sadiq-7195b2258\t \t Github: github.com/muzzamilarain\n" , "yellow"))
+
 print()
 
 def detect_hash_type(hash_string):
