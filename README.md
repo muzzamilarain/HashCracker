@@ -24,13 +24,20 @@ Hash Cracker is a Python-based tool that cracks cryptographic hash values using 
 
 
 
-Installation
+## 🚀 How to Use
 
-git clone https://github.com/muzzamilarain/HashCracker/
+1. **Clone using git**  
+   ```bash
+   git clone https://github.com/muzzamilarain/HashCracker
 
-cd HashCracker
-
-python3 hash.py
+2. **Go to Directory**
+    ```bash
+   cd HashCracker
+    
+4. **Install dependencies**  
+   ```bash
+   pip install -r requirements.txt
+Than run py file with python3
 
 
 ⚠️ Disclaimer
